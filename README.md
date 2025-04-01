@@ -18,13 +18,13 @@ Below is a snapshot of the running game interface:
 
 ![Tank Game Screenshot](tankgame_screenshot.png)
 
-*(Replace `tankgame_screenshot.png` with the actual path to your screenshot file. You can store the image in the same folder as this README or in a dedicated images folder, adjusting the path accordingly.)*
 
 ---
 
 ## How to Compile & Run
 
-1. **Clone or download** this repository, and navigate into the project directory.
+1. **Clone or download**
+   this repository, and navigate into the project directory.
 
 2. **Compile all source files**:
    ```bash
