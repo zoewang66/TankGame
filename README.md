@@ -1,13 +1,32 @@
 # Java Tank Project
 
+A simple yet engaging tank battle game written in Java, showcasing the use of Java threads and object-oriented programming principles. This project demonstrates proficiency in **multithreaded programming** and **object-oriented design**, providing a fun way to learn and practice core Java concepts.
+
+---
+
 ## Project Overview
 
-This is a Tank game written in Java, showcasing the use of Java threads and object-oriented programming principles. The project aims to demonstrate proficiency in multithreaded programming and object-oriented design, providing a simple yet engaging tank battle game.
+- **Multithreaded Programming:** Multiple tanks and game elements run concurrently using Java's threading mechanisms.  
+- **Object-Oriented Design:** Different elements of the game (tanks, bullets, bombs, etc.) are modeled as objects, resulting in a clear, maintainable, and extensible code structure.  
+- **Game Logic:** Includes tank movement, shooting, collision detection, scoring, and the ability to load/save game progress.  
 
-## Project Features
+---
 
-- **Multithreaded Programming:** The project leverages Java's threading mechanisms to implement multiple tanks and other game elements running concurrently.
+## Screenshot
 
-- **Object-Oriented Design:** Using object-oriented design principles, different elements of the game are abstracted as objects, resulting in a clear, understandable, and extensible code structure.
+Below is a snapshot of the running game interface:
 
-- **Game Logic:** Basic tank game logic is implemented, including tank movement, shooting, collision detection, and more.
+![Tank Game Screenshot](tankgame_screenshot.png)
+
+*(Replace `tankgame_screenshot.png` with the actual path to your screenshot file. You can store the image in the same folder as this README or in a dedicated images folder, adjusting the path accordingly.)*
+
+---
+
+## How to Compile & Run
+
+1. **Clone or download** this repository, and navigate into the project directory.
+
+2. **Compile all source files**:
+   ```bash
+   find src -name "*.java" > sources.txt
+   javac -d bin @sources.txt
