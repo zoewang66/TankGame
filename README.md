@@ -16,7 +16,8 @@ A simple yet engaging tank battle game written in Java, showcasing the use of Ja
 
 Below is a snapshot of the running game interface:
 
-![Tank Game Screenshot](game.png)(game2.png)
+![Tank Game Screenshot](game.png)
+![Tank Game Screenshot](game2.png)
 
 
 ---
