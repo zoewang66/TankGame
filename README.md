@@ -69,4 +69,3 @@ When you close the window, the game automatically saves the current state to rec
 - **Expandable Design**  
   The code follows an object-oriented approach, making it simpler to add new features (e.g., power-ups, advanced AI, more complex collision logic) in the future.
 
-<p align="center">Enjoy the game and happy coding!</p> 
